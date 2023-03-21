@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "NDS ADMIN TOOLS",
+  "version": "0.1.0",
+  "content_scripts": [
+    {
+      "matches": ["https://nosdevoirs.fr/profil/*"],
+      "js": ["/js/addDeleteButton.js"]
+    }
+  ]
+}
