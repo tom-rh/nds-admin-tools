@@ -1,6 +1,7 @@
 {
   "manifest_version": 3,
   "name": "NDS ADMIN TOOLS",
+  "description": "Add some tools to NDS for admins",
   "version": "0.1.0",
   "content_scripts": [
     {
